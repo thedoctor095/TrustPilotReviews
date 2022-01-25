@@ -15,7 +15,7 @@ def queryValidator():
     webpage_status = soup.find('div',
                                class_='errors_error404__tUqzU')
     if webpage_status != None:
-        print("Please input a full website domain. (eg. www.google.com or google.com)")
+        print('Please input a full website domain. (eg. www.google.com or google.com)')
     else:
         tpSearch()
 
