@@ -1,4 +1,4 @@
-# TrustPilot Reviews Scraper
+# Trustpilot Review Scraper
 This is a simple Python3 program which returns the total number of reviews, percentage of review type and the overall review of a website input.
 
 Install the requirements: ```pip3 install -r requirements.txt```
